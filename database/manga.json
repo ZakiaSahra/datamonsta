@@ -1,46 +1,12 @@
-
 {
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": [
-    "Return of the Peerless Dragonslayer",
-    "Dragon Slayer's Regression"
-  ],
-  "status": "Ongoing",
-  "author": "Han Tae-su",
-  "artist": "REDICE Studio",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.8,
-  "synopsis": "Setelah bertarung selama puluhan tahun di garis depan untuk melindungi umat manusia dari ancaman Naga, sang pahlawan terhebat menemui ajalnya karena pengkhianatan. Namun, bukannya mati, ia mendapati dirinya kembali ke masa lalu saat ia masih menjadi rekrutan akademi. Dengan ingatan, teknik, dan pengalaman dari kehidupan sebelumnya, ia bertekad untuk memperbaiki semua kesalahan, mencegah tragedi, dan membasmi ras Naga sekali dan untuk selamanya.",
-  "cover_url": "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
+  "advanture": [
     {
-      "chapter_number": 1,
-      "chapter_title": "Prologue: The End and The Beginning",
-      "images": [
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch001/004.jpg"
-      ]
+      "title": "Echoes of the Reverse Planet",
+      "download_url": "https://raw.githubusercontent.com/ZakiaSahra/datamonsta/main/advanture/Echoes%20of%20the%20Reverse%20Planet.cbz"
     },
     {
-      "chapter_number": 2,
-      "chapter_title": "Awakening at the Academy",
-      "images": [
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch002/004.jpg",
-        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/dragonslayers-peerless-regression/ch002/005.jpg"
-      ]
+      "title": "Genius Prismatic Mage",
+      "download_url": "https://raw.githubusercontent.com/ZakiaSahra/datamonsta/main/advanture/Genius%20Prismatic%20Mage.cbz"
     }
   ]
 }
